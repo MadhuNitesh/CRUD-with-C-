@@ -1,0 +1,11 @@
+C:\Users\MadhuNitesh\source\repos\LoginCRUD\LoginCRUD\bin\Debug\LoginCRUD.exe.config
+C:\Users\MadhuNitesh\source\repos\LoginCRUD\LoginCRUD\bin\Debug\LoginCRUD.exe
+C:\Users\MadhuNitesh\source\repos\LoginCRUD\LoginCRUD\bin\Debug\LoginCRUD.pdb
+C:\Users\MadhuNitesh\source\repos\LoginCRUD\LoginCRUD\obj\Debug\LoginCRUD.csproj.AssemblyReference.cache
+C:\Users\MadhuNitesh\source\repos\LoginCRUD\LoginCRUD\obj\Debug\LoginCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\MadhuNitesh\source\repos\LoginCRUD\LoginCRUD\obj\Debug\LoginCRUD.Form1.resources
+C:\Users\MadhuNitesh\source\repos\LoginCRUD\LoginCRUD\obj\Debug\LoginCRUD.Properties.Resources.resources
+C:\Users\MadhuNitesh\source\repos\LoginCRUD\LoginCRUD\obj\Debug\LoginCRUD.csproj.GenerateResource.cache
+C:\Users\MadhuNitesh\source\repos\LoginCRUD\LoginCRUD\obj\Debug\LoginCRUD.csproj.CoreCompileInputs.cache
+C:\Users\MadhuNitesh\source\repos\LoginCRUD\LoginCRUD\obj\Debug\LoginCRUD.exe
+C:\Users\MadhuNitesh\source\repos\LoginCRUD\LoginCRUD\obj\Debug\LoginCRUD.pdb
